@@ -28,29 +28,6 @@ namespace PrimeNumbers
             primeNumbers.Add(53);
 
             return primeNumbers[number-1];
-
-            //example: input = 5    // 2, 3, 5, 7, 11
-            //take a number n ()the parameter
-            //get the nth prime number
-            //send it back
-
-            //there is no input, it is given as number
-            //there is no console writing, a number is returned
         }
-
-
-        //public bool GetPrime(int n)
-        //{          
-
-        //    if (n % 2 == 0 && n != 2)
-        //    {
-        //        return false; // false
-        //    }
-        //    else
-        //    {
-        //        return true;
-        //    }
-            
-        //}
     }
 }

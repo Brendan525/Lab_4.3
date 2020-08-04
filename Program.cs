@@ -35,8 +35,10 @@ namespace PrimeNumbers
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter (y/n)");
+                    Console.WriteLine("Invalid input. Goodbye");
+                    break;
                 }
+
             }
         }
     }
