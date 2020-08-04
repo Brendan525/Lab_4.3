@@ -26,6 +26,10 @@ namespace PrimeNumbers
             primeNumbers.Add(43);
             primeNumbers.Add(47);
             primeNumbers.Add(53);
+            primeNumbers.Add(59);
+            primeNumbers.Add(61);
+            primeNumbers.Add(67);
+            primeNumbers.Add(71);
 
             return primeNumbers[number-1];
         }
