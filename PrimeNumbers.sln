@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers.csproj", "{0170BCD2-6C98-43E4-A3BF-7330E294E9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers.Test", "..\PrimeNumbers.Test\PrimeNumbers.Test.csproj", "{ABE5B61B-F18F-465B-BA51-5042FCE6ABD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0170BCD2-6C98-43E4-A3BF-7330E294E9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0170BCD2-6C98-43E4-A3BF-7330E294E9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0170BCD2-6C98-43E4-A3BF-7330E294E9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0170BCD2-6C98-43E4-A3BF-7330E294E9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE5B61B-F18F-465B-BA51-5042FCE6ABD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE5B61B-F18F-465B-BA51-5042FCE6ABD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE5B61B-F18F-465B-BA51-5042FCE6ABD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE5B61B-F18F-465B-BA51-5042FCE6ABD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6F953F-67D8-4EAB-970B-54692E1FF319}
+	EndGlobalSection
+EndGlobal
